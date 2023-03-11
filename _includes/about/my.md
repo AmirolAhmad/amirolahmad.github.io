@@ -1,0 +1,1 @@
+Assalamualaikum dan hello!
