@@ -36,4 +36,4 @@ Here is the step on how to import MySQL Database via SSH:
 
 	> Replace passwordhere with the actual password and do not place a space after the -p before the password, it must be directly next to the -p with no space.
 
-5. You are all set. Now check your PHPMyAdmin to make sure your MySQL Database backup file is exist.
+#### You are all set. Now check your PHPMyAdmin to make sure your MySQL Database backup file is exist.
