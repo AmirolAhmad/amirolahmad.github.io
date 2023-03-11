@@ -61,7 +61,7 @@ PHP is an open source scripting language used for designing dynamic web pages. I
 yum install php php-*
 ```
 
-### Starting Services at Boot:
+### Starting Services at boot
 A manual start is required for the web and database server each time after rebooting the server. To automatically start these services on startup, issue the commands below in the terminal.
 ```bash
 chkconfig httpd on

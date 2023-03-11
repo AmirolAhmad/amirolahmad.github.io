@@ -10,7 +10,7 @@ tags: ["Ruby on rails","Bootstrap v3","Ruby Gemfile"]
 
 Maybe some of you facing some difficulties when try to use [Bootstrap v3 framework][TB] in your Ruby on Rails application. So I create a gemfile where really easy to install using your gemfile.
 
-You may find out the source code and how-to at my github repository [here][BV3] and here is the [rubygems.org][RG].
+> You may find out the source code and how-to at my github repository [here][BV3] and here is the [rubygems.org][RG].
 
 Hope it can help you to build a better ruby on rails application using Bootstrap v3 framework.
 
