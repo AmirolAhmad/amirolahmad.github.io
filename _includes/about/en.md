@@ -4,7 +4,7 @@ I considered myself as a hybrid between a software engineer specifically into th
 
 I'm also previously worked on the [Singapore Power Digital](https://www.spgroup.com.sg/sp-digital/overview), some other projects under the [Singapore Power](https://www.spgroup.com.sg/), [AIA Malaysia](https://www.aia.com.my/en/index.html), and [TNB Malaysia](https://www.mytnb.com.my/) as an efforts at CSI Interfusion Sdn Bhd.
 
-In the past, I worked on [Osem Network](https://www.osemnetwork.com.my/) as System Administration and Security Consultant, and many more. You can checkout my [Linkedin](https://my.linkedin.com/in/amirolahmad).
+In the past, I worked with [Osem Network](https://www.osemnetwork.com.my/) as System Administration and Security Consultant, and many more. You can checkout my [Linkedin](https://my.linkedin.com/in/amirolahmad).
 
 Previously active with RailsGirl Community, Mozilla MY Translations, etc.
 
